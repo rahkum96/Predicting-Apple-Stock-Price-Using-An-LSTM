@@ -21,3 +21,6 @@ Predicting Apple Stock Price
 ### Stock Prediction:
 
 ![image](https://user-images.githubusercontent.com/86415241/139526285-0a3cb93c-daba-43b9-8e56-0cc98528e48c.png)
+
+### Conclusion:
+Our model performed admirably, as can be seen. It can accurately follow most unusual jumps/drops; however, we can observe that the model expected (predicted) lower values than the actual stock price for the most recent date stamps.
