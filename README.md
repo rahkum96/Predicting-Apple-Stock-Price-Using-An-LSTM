@@ -24,3 +24,4 @@ Predicting Apple Stock Price
 
 ### Conclusion:
 Our model performed admirably, as can be seen. It can accurately follow most unusual jumps/drops; however, we can observe that the model expected (predicted) lower values than the actual stock price for the most recent date stamps.
+ 
