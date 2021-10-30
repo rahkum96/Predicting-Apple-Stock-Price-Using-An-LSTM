@@ -2,7 +2,7 @@
 Predicting Apple Stock Price 
 
 ### Note:
-Time series analysis algorithms have been used to try to anticipate stock values, but they still can't be utilised to put bets in the real market. This is merely a tutorial essay with no intention of "directing" readers to buy stocks.
+This Repo (model) sole purpose is to examine and demonstrate how Machine Learning Models perform in the stock market; it is not intended to provide investing advice! The stock market is volatile, and it is not recommended for novices without prior knowledge!
 
 ### Historical closing price of Apple stock 
 #### Date: start='2015-01-01',end='2021-09-30'
