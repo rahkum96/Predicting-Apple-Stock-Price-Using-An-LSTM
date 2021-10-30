@@ -1,6 +1,9 @@
 # Predicting-Apple-Stock-Price-Using-An-LSTM
 Predicting Apple Stock Price 
 
+### Note:
+Time series analysis algorithms have been used to try to anticipate stock values, but they still can't be utilised to put bets in the real market. This is merely a tutorial essay with no intention of "directing" readers to buy stocks.
+
 ### Historical closing price of Apple stock 
 #### Date: start='2015-01-01',end='2021-09-30'
 
