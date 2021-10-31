@@ -16,6 +16,13 @@ This Repo (model) sole purpose is to examine and demonstrate how Machine Learnin
 - Scikit-Learn & 
 - Numpy
 
+
+## Usage
+
+Just run `jupyter notebook` in terminal and it will run in your browser.
+
+Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
+
 ### Loss plot
 
 ![image](https://user-images.githubusercontent.com/86415241/139526265-ad8e6d0e-63b0-4834-bffd-b8cab25114cb.png)
