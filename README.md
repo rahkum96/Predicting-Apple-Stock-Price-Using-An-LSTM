@@ -11,6 +11,7 @@ This Repo (model) sole purpose is to examine and demonstrate how Machine Learnin
 
 ## Modules needed: 
 ```
+- pandas_datareader
 - Keras
 - Tensorflow V2.6.0
 - Pandas 
