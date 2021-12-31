@@ -1,5 +1,5 @@
 # Predicting-Apple-Stock-Price-Using-An-LSTM
-Predicting Apple Stock Price 
+Predicting Apple Stock Price
 
 ## Note:
 This Repo (model) sole purpose is to examine and demonstrate how Machine Learning Models perform in the stock market; it is not intended to provide investing advice! The stock market is volatile, and it is not recommended for novices without prior knowledge!
